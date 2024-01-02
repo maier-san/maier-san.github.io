@@ -1,5 +1,5 @@
 layout: page
-title: "FlowProtocol2 - Anwendungen"
+title: "FP2Anwendungen"
 permalink: /FlowProtocol2/Anwendungen
 ## FlowProtocol2 - Anwendungen
 # Einleitung
